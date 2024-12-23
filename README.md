@@ -4,7 +4,7 @@ Document scanner app with edge detection and cropping functionality.
 
 ## Introduction
 
-This project is my submission for the Receiptflow Senior Flutter Developer task. The app scans a document image, detects the edges and applies a magnifier to crop the document.
+The app scans a document image, detects the edges and applies a magnifier to crop the document.
 
 ### Features
 
